@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/maghfera_shrief" target="blank"><img src="https://img.shields.io/twitter/follow/maghfera_shrief?logo=twitter&style=for-the-badge" alt="maghfera_shrief" /></a> </p>
 
-- 🌱 I’m currently learning Data Science & Machine Learning
+- 🌱 I’m currently learning Web Development
 
 - 💬 Ask me about Computer Sciecne
 
