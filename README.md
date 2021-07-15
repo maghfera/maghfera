@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maghfera Shrief</h1>
+<h1 align="center">I'm Maghfera Shrief</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/maghfera_shrief" target="blank"><img src="https://img.shields.io/twitter/follow/maghfera_shrief?logo=twitter&style=for-the-badge" alt="maghfera_shrief" /></a> </p>
